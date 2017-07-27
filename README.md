@@ -9,6 +9,7 @@ Each Campground has a
 * Image
 
 We are going to store this in an array. We will have an array of objects camp.
+```
 [
     {name: 'sushi', image: 'http://someurl/image/1234.jpg'},
     {name: 'sushi', image: 'http://someurl/image/1234.jpg'},
@@ -16,3 +17,4 @@ We are going to store this in an array. We will have an array of objects camp.
     {name: 'sushi', image: 'http://someurl/image/1234.jpg'}
     
 ]
+```
