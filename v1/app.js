@@ -22,7 +22,7 @@ app.get('/campgrounds', function(req , res){
 });
 
 app.get('/campgrounds/new', function(req, res) {
-    res.render('createCamp');
+    res.render('new');
 });
 
 app.post('/campgrounds', function(req, res){
